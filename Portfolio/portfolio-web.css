@@ -778,6 +778,7 @@ header{
     .card-1{
         width: 80%;
         margin: 0 auto;
+        overflow: auto;
     }
 
     .card-2{
